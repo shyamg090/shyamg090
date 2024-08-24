@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on a MERN Stack Projects<br><br>🌱 I’m currently learning DSA.<br><br>👨‍💻 All of my projects are available at https://shyamg.netlify.app<br><br>💬 Ask me about React.js , Node.js, MongoDB , Express.js.<br><br>🐱‍🏍 I'm into Developing things and Contributing to Open Source.<br><br>📫 How to reach me shyamg1002@gmail.com
+🔭 I’m currently working on as a SDE Intern tech stack involved is React, TailwinCSS, Figma and NodeJS, MongoDB , Express some basic devops<br><br>🌱 Switching From DSA in C++ to DSA in Python<br><br>👨‍💻 All of my projects are available at https://shyamg.netlify.app (old and not updated) <br><br>💬 Ask me about React.js(more then intermediate) , Node.js, MongoDB , Express.js, Redux, TailwindCSS.<br><br>🐱‍🏍 I'm into Developing things and Contributing to Open Source.<br><br>📫 How to reach me shyamg1002@gmail.com
 
 
 ## 🌐 Socials:
@@ -31,4 +31,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=shyamg090&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-
