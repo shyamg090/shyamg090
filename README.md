@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working as a SDE Intern.<br>🚀 Tech stack - React, GSAP, TailwinCSS, Figma and NodeJS, MongoDB, Express some basic devops<br>🌱 Switching From DSA in C++ to DSA in Python<br>👨‍💻 All of my projects are available at https://shyamg.netlify.app (old as of 2023 and not updated)<br>📫 How to reach me shyamg1002@gmail.com
+🔭 I’m currently working as an SDE Intern.<br>🚀 Tech stack - React, GSAP, TailwinCSS, Figma and NodeJS, MongoDB, Express some basic devops<br>🌱 Switching From DSA in C++ to DSA in Python<br>👨‍💻 All of my projects are available at https://shyamg.netlify.app (old as of 2023 and not updated) <br> <br>👨‍💻 I'm Currently building React, Redux , TailwindCSS, GSAP focused Website , I have 5 Personal Projects (full stack lined up) and a new portfolio Website Stay Tuned.<br> <br>📫 How to reach me shyamg1002@gmail.com
 
 
 ## 🌐 Socials:
