@@ -3,7 +3,7 @@
 # 👋 Hey there, I'm Shyam Gururaja
 
 🔧 Backend Developer at [Amoga Software](https://amoga.io)  
-🚀 Work Repo [shyamg0](https://github.com/shyamg0) 
+🚀 Work Repo [shyamg0](https://github.com/shyamg0)  
 🌐 Portfolio: [shyamg.netlify.app](https://shyamg.netlify.app)  
 📫 Email: shyamg1002@gmail.com
 
