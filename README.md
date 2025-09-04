@@ -2,8 +2,9 @@
 
 # 👋 Hey there, I'm Shyam Gururaja
 
+### This is my Personal Github | My Work Github Account [shyamg0](https://github.com/shyamg0)  
+
 🔧 Backend Developer at [Amoga Software](https://amoga.io)  
-🚀 Work Repo [shyamg0](https://github.com/shyamg0)  
 🌐 Portfolio: [shyamg.netlify.app](https://shyamg.netlify.app)  
 📫 Email: shyamg1002@gmail.com
 
