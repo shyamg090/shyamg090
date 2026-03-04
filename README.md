@@ -1,6 +1,7 @@
 **Hey there, I'm Shyam Gururaja 👋**
 
-Backend Developer at [Amoga Software](https://amoga.io) | [Personal GitHub](https://github.com/shyamg090) | [Work GitHub](https://github.com/shyamg0)
+Backend Developer at [Blend (NYSE: BLND
+)](https://blend.com)
 
 **Connect with me:** [Twitter](https://twitter.com/shyamg0) • [LinkedIn](https://linkedin.com/in/shyam-g-6712a522b) • [LeetCode](https://leetcode.com/shyam090)
 
